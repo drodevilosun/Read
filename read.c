@@ -13,3 +13,4 @@ process với thread khác nhau sao?
 - https://www.phongvanit.com/ky-nang/python-1005
 - https://faq.pymi.vn/
 - https://pymi.vn/blog/call-by/#binding
+- https://stackoverflow.com/questions/2709821/what-is-the-purpose-of-self

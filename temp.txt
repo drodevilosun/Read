@@ -1,0 +1,7 @@
+- Công việc của em là gì? IT, UT, QAC, port, debug
+- Mỗi phần ở trên thực hiện trong bao lâu? IT (1.2 năm), UT (4 tháng), QAC(1 tuần), port(3 tháng), debug(1 tháng), improve and develop script(2 tháng)
+- IT thì tạo được bao nhiêu test case? Khoảng 200 test cases cho bộ test 1k test cases.
+- Chiếm bao nhiêu % trong team? Nếu như preparation test thì chiếm khoảng 50%. Còn về test thì chiếm khoảng 80%.
+- Công việc test bao gồm những gì? Test manual (kiểm tra performance của board  và auto test 
+
+- UT tạo được bao nhiêu test case? khoảng 80 test cases trong 290 test cases. 
